@@ -106,7 +106,7 @@ ans3 = st.text_input(
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
-    "ข้อ 4: Raccoon love to eat `b _ o c _ d _`. 🐟",
+    "ข้อ 4: Raccoon love to eat `a _ o c _ d _`. 🐟",
     value=st.session_state.ans4_val,
 )
 
